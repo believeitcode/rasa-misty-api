@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\WenJie\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0\\python.exe",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none"
+    },
+    "python.languageServer": "Pylance"
+}
